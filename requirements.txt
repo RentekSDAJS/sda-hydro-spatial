@@ -5,5 +5,4 @@ geopandas
 folium
 streamlit-folium
 scipy
-fiona
-pyarrow
+shapely
